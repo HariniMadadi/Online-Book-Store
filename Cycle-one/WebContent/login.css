@@ -1,0 +1,55 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image: url("https://sites.google.com/site/onlinestorebookie/_/rsrc/1371709621879/home/books_store_online.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: screen;
+}
+div{
+	width: 700px;
+	margin: auto;
+	background-color: lightblue;
+	filter: opacity(90%);
+}
+button{
+	text-align: center;
+	background-color: #2cd356;
+	color: white;
+    margin-left: 120px;
+    border: 1px solid #2cd356;
+    cursor: pointer;
+    width: 400px;
+    height: 40px;
+    outline: none;
+}
+.details{
+	border-radius: 5px;
+	outline: none;
+	height: 40px;
+	width: 400px;
+	background-color: white;
+	border: 1px solid white;
+    border-radius: 3px;
+    padding-left: 11px;
+    margin-left: 120px;
+    margin-top: -12px;
+}
+p{
+	padding-left: 120px;
+	font-weight: bold;
+
+}
+.account{
+	font-size: 17px;
+    padding-bottom: 40px;
+    text-align: center;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+h1{
+	padding-top: 40px;
+	padding-left: 40px;
+}
+a{
+	text-decoration: none;
+}
